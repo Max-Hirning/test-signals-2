@@ -1,0 +1,1 @@
+AC6.4: self approve stale idle change Tue Sep 15 11:03:03     2026
