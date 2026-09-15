@@ -12,7 +12,7 @@ jobs:
     if: contains(github.event.pull_request.title, 'bot-review')
     runs-on: ubuntu-latest
     steps:
-      - run: gh pr review "${{ github.event.pull_request.number }}" --approve -b "Automated bot review (AC6.6 sandbox test)"
+      - run: gh pr review "${{ github.event.pull_request.number }}" --comment -b "Automated bot review (AC6.6 sandbox test) — comment, not approve, since default Actions token permissions block bot approvals"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
