@@ -14,3 +14,5 @@ export const growTrend3 = 3;
 export const growTrend4 = 4;
 
 export const growTrend5 = 5;
+
+export const growTrend6 = 6;
