@@ -4,3 +4,5 @@ export const handoff01 = {
 };
 
 export const growTrend1 = 1;
+
+export const growTrend1 = 1;
