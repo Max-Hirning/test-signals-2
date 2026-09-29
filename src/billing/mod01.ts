@@ -8,3 +8,11 @@ export const billingModuleTweak = () => 'billing-tweak';
 // churn-ratio-fixture-1-6-32444
 // churn-ratio-fixture-1-7-6139
 // churn-ratio-fixture-1-8-16286
+// churn-ratio-fixture-2-1-31577
+// churn-ratio-fixture-2-2-9356
+// churn-ratio-fixture-2-3-21369
+// churn-ratio-fixture-2-4-9348
+// churn-ratio-fixture-2-5-27616
+// churn-ratio-fixture-2-6-15947
+// churn-ratio-fixture-2-7-28556
+// churn-ratio-fixture-2-8-17819
