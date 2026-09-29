@@ -15,3 +15,11 @@ export const billingModule03 = () => 'billing-03';
 // churn-ratio-fixture-2-6-11241
 // churn-ratio-fixture-2-7-31898
 // churn-ratio-fixture-2-8-17999
+// churn-ratio-fixture-3-1-23061
+// churn-ratio-fixture-3-2-32483
+// churn-ratio-fixture-3-3-13906
+// churn-ratio-fixture-3-4-5791
+// churn-ratio-fixture-3-5-17046
+// churn-ratio-fixture-3-6-18530
+// churn-ratio-fixture-3-7-24114
+// churn-ratio-fixture-3-8-24496
